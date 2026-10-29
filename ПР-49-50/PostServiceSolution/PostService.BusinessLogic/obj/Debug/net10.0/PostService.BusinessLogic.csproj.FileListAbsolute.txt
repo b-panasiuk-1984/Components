@@ -1,0 +1,93 @@
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.deps.json
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.Models.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.Models.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.csproj.AssemblyReference.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostServ.68D1B184.Up2Date
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\refint\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\ref\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.deps.json
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.Models.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.Models.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.csproj.AssemblyReference.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostServ.68D1B184.Up2Date
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\refint\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\ref\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.deps.json
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.Models.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.Models.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.csproj.AssemblyReference.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostServ.68D1B184.Up2Date
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\refint\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\ref\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.deps.json
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.Models.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.Models.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.csproj.AssemblyReference.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostServ.68D1B184.Up2Date
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\refint\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\ref\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.deps.json
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.BusinessLogic.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.Models.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.Models.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.csproj.AssemblyReference.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostServ.68D1B184.Up2Date
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\refint\PostService.BusinessLogic.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\PostService.BusinessLogic.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.BusinessLogic\obj\Debug\net10.0\ref\PostService.BusinessLogic.dll

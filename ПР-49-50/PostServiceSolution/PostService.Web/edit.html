@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Дані відправлення</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="posting-validation.js" defer></script>
+    <script src="edit.js" defer></script>
+</head>
+<body>
+    <main>
+        <h1>Дані відправлення</h1>
+        <p id="posting-status" aria-live="polite">Завантаження...</p>
+        <table id="posting-table" hidden>
+            <thead>
+                <tr>
+                    <th scope="col">Поле</th>
+                    <th scope="col">Значення</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div>
+            <button id="back-button" type="button">Назад</button>
+            <button id="save-button" type="button" disabled>Зберегти</button>
+        </div>
+    </main>
+</body>
+</html>

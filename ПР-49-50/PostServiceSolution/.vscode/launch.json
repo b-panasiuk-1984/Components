@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Launch PostService",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-postservice",
+            "program": "${workspaceFolder}/PostService/bin/Debug/net8.0/PostService.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/PostService",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "justMyCode": false
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|c:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u0456\u0442-4\\\u0434\u043C\u0438\u0442\u0440\u043E \u0441\u0442\u0435\u0431\u043B\u044E\u043A\\\u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\postservice\\services\\postingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|solutionrelative:services\\postingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|c:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u0456\u0442-4\\\u0434\u043C\u0438\u0442\u0440\u043E \u0441\u0442\u0435\u0431\u043B\u044E\u043A\\\u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\postservice\\mappings\\postingmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|solutionrelative:mappings\\postingmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|c:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u0456\u0442-4\\\u0434\u043C\u0438\u0442\u0440\u043E \u0441\u0442\u0435\u0431\u043B\u044E\u043A\\\u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\postservice\\dtos\\postingpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|solutionrelative:dtos\\postingpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|c:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u0456\u0442-4\\\u0434\u043C\u0438\u0442\u0440\u043E \u0441\u0442\u0435\u0431\u043B\u044E\u043A\\\u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\postservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|c:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u0456\u0442-4\\\u0434\u043C\u0438\u0442\u0440\u043E \u0441\u0442\u0435\u0431\u043B\u044E\u043A\\\u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\postservice\\dtos\\postinggetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|solutionrelative:dtos\\postinggetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|c:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u0456\u0442-4\\\u0434\u043C\u0438\u0442\u0440\u043E \u0441\u0442\u0435\u0431\u043B\u044E\u043A\\\u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\postservice\\dtos\\postingputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|solutionrelative:dtos\\postingputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|c:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u0456\u0442-4\\\u0434\u043C\u0438\u0442\u0440\u043E \u0441\u0442\u0435\u0431\u043B\u044E\u043A\\\u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\postservice\\models\\posting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|solutionrelative:models\\posting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|c:\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u0456\u0442-4\\\u0434\u043C\u0438\u0442\u0440\u043E \u0441\u0442\u0435\u0431\u043B\u044E\u043A\\\u043A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\postservice\\postservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F5851E2-F071-CF88-74AC-86F0D3888168}|PostService.csproj|solutionrelative:postservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:09:02.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostingService.cs",
+              "DocumentMoniker": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Services\\PostingService.cs",
+              "RelativeDocumentMoniker": "Services\\PostingService.cs",
+              "ToolTip": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Services\\PostingService.cs",
+              "RelativeToolTip": "Services\\PostingService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAMwE4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T13:10:54.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostingMapper.cs",
+              "DocumentMoniker": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Mappings\\PostingMapper.cs",
+              "RelativeDocumentMoniker": "Mappings\\PostingMapper.cs",
+              "ToolTip": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Mappings\\PostingMapper.cs",
+              "RelativeToolTip": "Mappings\\PostingMapper.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:21:32.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostingGetDTO.cs",
+              "DocumentMoniker": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Dtos\\PostingGetDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\PostingGetDTO.cs",
+              "ToolTip": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Dtos\\PostingGetDTO.cs",
+              "RelativeToolTip": "Dtos\\PostingGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:20:16.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostingPutDTO.cs",
+              "DocumentMoniker": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Dtos\\PostingPutDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\PostingPutDTO.cs",
+              "ToolTip": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Dtos\\PostingPutDTO.cs",
+              "RelativeToolTip": "Dtos\\PostingPutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:19:55.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostingPostDTO.cs",
+              "DocumentMoniker": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Dtos\\PostingPostDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\PostingPostDTO.cs",
+              "ToolTip": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Dtos\\PostingPostDTO.cs",
+              "RelativeToolTip": "Dtos\\PostingPostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T21:19:23.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Posting.cs",
+              "DocumentMoniker": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Models\\Posting.cs",
+              "RelativeDocumentMoniker": "Models\\Posting.cs",
+              "ToolTip": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\Models\\Posting.cs",
+              "RelativeToolTip": "Models\\Posting.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:30:37.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostService.csproj",
+              "DocumentMoniker": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\PostService.csproj",
+              "RelativeDocumentMoniker": "PostService.csproj",
+              "ToolTip": "C:\\\u041A\u043E\u043B\u0435\u0434\u0436\\\u0406\u0422-4\\\u0414\u043C\u0438\u0442\u0440\u043E \u0421\u0442\u0435\u0431\u043B\u044E\u043A\\\u041A\u043E\u043C\u043F\u043E\u043D\u0435\u043D\u0442\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0457 \u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u0457\\PostService\\PostService.csproj",
+              "RelativeToolTip": "PostService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T15:29:39.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

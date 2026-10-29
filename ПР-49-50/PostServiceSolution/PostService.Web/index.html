@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PostService</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>PostService</h1>
+    </header>
+    <main>
+        <h2>Поштовий сервіс</h2>
+        <div>
+            <button id="create-posting-button" type="button">Створити</button>
+            <button id="about-button" type="button">Про програму</button>
+        </div>
+        <dialog id="about-dialog">
+            <h2>Про програму</h2>
+            <p>PostService — вебінтерфейс для перегляду та керування поштовими відправленнями.</p>
+            <button id="close-about-button" type="button">Закрити</button>
+        </dialog>
+        <p id="postings-status" aria-live="polite">Завантаження...</p>
+        <table id="postings-table" hidden>
+            <thead></thead>
+            <tbody></tbody>
+        </table>
+    </main>
+</body>
+</html>

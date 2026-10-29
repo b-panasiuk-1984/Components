@@ -1,0 +1,68 @@
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.deps.json
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.Models.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.Models.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.csproj.AssemblyReference.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostServ.B036F149.Up2Date
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\refint\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\ref\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.deps.json
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.Models.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.Models.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.csproj.AssemblyReference.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostServ.B036F149.Up2Date
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\refint\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\ref\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.deps.json
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.Models.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.Models.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.csproj.AssemblyReference.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostServ.B036F149.Up2Date
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\refint\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\ref\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.deps.json
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.Models.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.Models.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.csproj.AssemblyReference.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostServ.B036F149.Up2Date
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\refint\PostService.DataAccess.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\PostService.DataAccess.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.DataAccess\obj\Debug\net10.0\ref\PostService.DataAccess.dll

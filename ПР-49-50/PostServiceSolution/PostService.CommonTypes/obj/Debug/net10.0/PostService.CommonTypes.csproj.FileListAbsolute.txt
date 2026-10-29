@@ -1,0 +1,57 @@
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.deps.json
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\refint\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 40\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\ref\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.deps.json
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\refint\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 41\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\ref\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.deps.json
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\refint\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\ref\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostServ.100D920E.Up2Date
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.deps.json
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\refint\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\ref\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostServ.100D920E.Up2Date
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.deps.json
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\refint\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.CommonTypes\obj\Debug\net10.0\ref\PostService.CommonTypes.dll

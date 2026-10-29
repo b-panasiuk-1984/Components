@@ -1,0 +1,54 @@
+### Дістати всі записи
+GET http://localhost:5001/postings
+
+### Дістати конкретний запис
+GET http://localhost:5001/postings/1
+
+### Дістати неіснуючий запис
+GET http://localhost:5001/postings/2
+
+### Створити новий запис
+POST http://localhost:5001/postings 
+Content-Type: application/json
+
+{
+    "from": "Звідки",
+    "to": "Куди",
+    "content": "Новий запис",
+    "deliveryType": 1,
+    "weight": 2.5,
+    "width": 10,
+    "height": 10,
+    "depth": 1,
+    "value": 200,
+    "price": 350
+}
+
+### Перевірити новий запис
+GET http://localhost:5001/postings/2
+
+### Оновити створений запис
+PUT http://localhost:5001/postings/2
+Content-Type: application/json
+
+{
+    "from": "Michael",
+    "to": "Fernando",
+    "content": "Luis better than Fernando",
+    "deliveryType": 1,
+    "weight": 0.5,
+    "width": 20,
+    "height": 15,
+    "depth": 2,
+    "value": 100,
+    "price": 150
+}
+
+### Перевірити оновлений запис
+GET http://localhost:5001/postings/2
+
+### Видалити створений запис
+DELETE http://localhost:5001/postings/2
+
+### Перевірити видалений запис
+GET http://localhost:5001/postings/2

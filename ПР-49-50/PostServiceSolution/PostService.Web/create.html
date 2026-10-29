@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Створити відправлення</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="posting-validation.js" defer></script>
+    <script src="create.js" defer></script>
+</head>
+<body>
+    <main>
+        <h1>Створити відправлення</h1>
+        <p id="create-status" aria-live="polite"></p>
+        <form id="create-form" novalidate>
+            <table>
+                <thead>
+                    <tr>
+                        <th scope="col">Поле</th>
+                        <th scope="col">Значення</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row"><label for="from">Відправник</label></th>
+                        <td><input id="from" name="from" type="text" required></td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><label for="to">Одержувач</label></th>
+                        <td><input id="to" name="to" type="text" required></td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><label for="content">Вміст</label></th>
+                        <td><input id="content" name="content" type="text" required></td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><label for="deliveryType">Тип доставки</label></th>
+                        <td>
+                            <select id="deliveryType" name="deliveryType" required>
+                                <option value="">Оберіть тип доставки</option>
+                                <option value="1">Відділення</option>
+                                <option value="2">Кур’єр</option>
+                                <option value="3">Експрес-кур’єр</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><label for="weight">Вага</label></th>
+                        <td><input id="weight" name="weight" type="number" step="any" min="0" required></td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><label for="width">Ширина</label></th>
+                        <td><input id="width" name="width" type="number" step="any" min="0" required></td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><label for="height">Висота</label></th>
+                        <td><input id="height" name="height" type="number" step="any" min="0" required></td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><label for="depth">Глибина</label></th>
+                        <td><input id="depth" name="depth" type="number" step="any" min="0" required></td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><label for="value">Оголошена вартість</label></th>
+                        <td><input id="value" name="value" type="number" step="any" min="0" required></td>
+                    </tr>
+                </tbody>
+            </table>
+            <div>
+                <button id="cancel-button" type="button">Скасувати</button>
+                <button id="submit-button" type="submit">Створити</button>
+            </div>
+        </form>
+    </main>
+</body>
+</html>
