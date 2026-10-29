@@ -20,47 +20,49 @@ C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти прог
 C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.Dtos.pdb
 C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.CommonTypes.pdb
 C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.AssemblyReference.cache
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.exe
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.deps.json
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.runtimeconfig.json
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.dll
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.pdb
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.CommonTypes.dll
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.Dtos.dll
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.Dtos.pdb
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.CommonTypes.pdb
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.AssemblyReference.cache
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.PostService.resources
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.GenerateResource.cache
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.GeneratedMSBuildEditorConfig.editorconfig
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.AssemblyInfoInputs.cache
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.AssemblyInfo.cs
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.CoreCompileInputs.cache
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostServ.EC0689EB.Up2Date
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.dll
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\refint\PostService.App.dll
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.pdb
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.genruntimeconfig.cache
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-42\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\ref\PostService.App.dll
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.exe
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.deps.json
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.runtimeconfig.json
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.dll
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.pdb
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.CommonTypes.dll
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.Dtos.dll
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.Dtos.pdb
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.CommonTypes.pdb
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.AssemblyReference.cache
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.PostService.resources
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.GenerateResource.cache
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.GeneratedMSBuildEditorConfig.editorconfig
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.AssemblyInfoInputs.cache
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.AssemblyInfo.cs
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.CoreCompileInputs.cache
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostServ.EC0689EB.Up2Date
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.dll
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\refint\PostService.App.dll
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.pdb
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.genruntimeconfig.cache
-C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-49-50\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\ref\PostService.App.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.exe
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.deps.json
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.runtimeconfig.json
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.Dtos.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.Dtos.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.AssemblyReference.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.PostService.resources
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.GenerateResource.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostServ.EC0689EB.Up2Date
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\refint\PostService.App.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.pdb
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.genruntimeconfig.cache
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\ref\PostService.App.dll
+C:\Коледж\ІТ-4\Дмитро Стеблюк\Компоненти програмної інженерії\Практична робота 47\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.PostView.resources
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.AssemblyReference.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.PostService.resources
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.PostView.resources
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.GenerateResource.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.AssemblyInfoInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.AssemblyInfo.cs
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.csproj.CoreCompileInputs.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\refint\PostService.App.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.exe
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.deps.json
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.runtimeconfig.json
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.App.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.CommonTypes.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.Dtos.dll
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.Dtos.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\bin\Debug\net10.0-windows\PostService.CommonTypes.pdb
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostServ.EC0689EB.Up2Date
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\PostService.App.genruntimeconfig.cache
+C:\Коледж\ІТ-4\Богдан Панасюк\Компоненти\ПР-47-48\PostServiceSolution\PostService.App\obj\Debug\net10.0-windows\ref\PostService.App.dll

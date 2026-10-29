@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.App\\PostService.App.csproj": {}
+    "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.App\\PostService.App.csproj": {}
   },
   "projects": {
-    "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.App\\PostService.App.csproj": {
+    "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.App\\PostService.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.App\\PostService.App.csproj",
+        "projectUniqueName": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.App\\PostService.App.csproj",
         "projectName": "PostService.App",
-        "projectPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.App\\PostService.App.csproj",
+        "projectPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.App\\PostService.App.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.App\\obj\\",
+        "outputPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
             "framework": "net10.0-windows7.0",
             "targetAlias": "net10.0-windows",
             "projectReferences": {
-              "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.Dtos\\PostService.Dtos.csproj": {
-                "projectPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.Dtos\\PostService.Dtos.csproj"
+              "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.Dtos\\PostService.Dtos.csproj": {
+                "projectPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.Dtos\\PostService.Dtos.csproj"
               }
             }
           }
@@ -368,14 +368,14 @@
         }
       }
     },
-    "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.CommonTypes\\PostService.CommonTypes.csproj": {
+    "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.CommonTypes\\PostService.CommonTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.CommonTypes\\PostService.CommonTypes.csproj",
+        "projectUniqueName": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.CommonTypes\\PostService.CommonTypes.csproj",
         "projectName": "PostService.CommonTypes",
-        "projectPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.CommonTypes\\PostService.CommonTypes.csproj",
+        "projectPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.CommonTypes\\PostService.CommonTypes.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.CommonTypes\\obj\\",
+        "outputPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.CommonTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -709,14 +709,14 @@
         }
       }
     },
-    "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.Dtos\\PostService.Dtos.csproj": {
+    "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.Dtos\\PostService.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.Dtos\\PostService.Dtos.csproj",
+        "projectUniqueName": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.Dtos\\PostService.Dtos.csproj",
         "projectName": "PostService.Dtos",
-        "projectPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.Dtos\\PostService.Dtos.csproj",
+        "projectPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.Dtos\\PostService.Dtos.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.Dtos\\obj\\",
+        "outputPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -738,8 +738,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.CommonTypes\\PostService.CommonTypes.csproj": {
-                "projectPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-49-50\\PostServiceSolution\\PostService.CommonTypes\\PostService.CommonTypes.csproj"
+              "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.CommonTypes\\PostService.CommonTypes.csproj": {
+                "projectPath": "C:\\Коледж\\ІТ-4\\Богдан Панасюк\\Компоненти\\ПР-47-48\\PostServiceSolution\\PostService.CommonTypes\\PostService.CommonTypes.csproj"
               }
             }
           }
